@@ -6,9 +6,7 @@ overall this system demonstrates a basic note taking system allowing you to writ
 
 Through going through the guide and adding my own touches and pieces to the program I felt like I have learned a great deal about django and how you can use techniques to make web apps. If I were to reapproach a different problem I feel reasonably confident in my ability to figure out what to do whereas before this project I had absolutely no idea where to even start.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=zxoWTdnMeTs)
 
 # Web Pages
 
